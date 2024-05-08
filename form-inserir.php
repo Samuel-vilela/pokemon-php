@@ -11,7 +11,7 @@
     <br>
     foto: <input type="file" name="foto" class="form-control">
     <br>
-    <button class="btn btn-primary" type="submit">SALVAR POKEMON</button>
+    <button class="btn btn-dark" type="submit">SALVAR POKEMON</button>
 </form>
 
 <?PHP include "rodape.php"; ?>
